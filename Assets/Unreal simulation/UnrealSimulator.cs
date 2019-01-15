@@ -14,9 +14,7 @@ public class UnrealSimulator : MonoBehaviour{
 	
 	void Awake(){
 		
-		textRebuilt.text = textRebuilt.text.Replace("%OBJECTS", numberObjects.ToString());
-		
-		if(!showSuppress){ textSuppress.text = ""; }
+		textRebuilt.text = showSuppress ? string.Format(textRebuilt.text, numberObjects) : "";
 		
 	}
 	
