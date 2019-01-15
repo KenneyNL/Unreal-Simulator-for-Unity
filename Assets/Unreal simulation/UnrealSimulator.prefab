@@ -160,7 +160,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: LIGHTING NEEDS TO BE REBUILT (%OBJECTS unbuilt object(s))
+  m_Text: LIGHTING NEEDS TO BE REBUILT ({0} unbuilt object(s))
 --- !u!114 &8310599621801740256
 MonoBehaviour:
   m_ObjectHideFlags: 0
