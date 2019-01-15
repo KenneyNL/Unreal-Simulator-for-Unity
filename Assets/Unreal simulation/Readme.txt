@@ -1,0 +1,1 @@
+Simply drag the "UnrealSimulator.prefab" on your canvas to display, you can set the number of objects to rebuilt and whether or not to show the suppress text.
