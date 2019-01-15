@@ -446,6 +446,11 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8310599621801740191, guid: df7d70161b138fc4e9b4139a49006d87,
+        type: 3}
+      propertyPath: m_Text
+      value: LIGHTING NEEDS TO BE REBUILT ({0} unbuilt object(s))
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df7d70161b138fc4e9b4139a49006d87, type: 3}
 --- !u!224 &1575742739 stripped
