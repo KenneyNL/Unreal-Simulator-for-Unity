@@ -2,7 +2,11 @@
 
 This adds the iconic 'lighting needs to be rebuilt' message to your canvas, it does nothing else at all.
 
-![alt text](https://i.imgur.com/l8IHYi9.png)
+![Screenshot](https://i.imgur.com/l8IHYi9.png)
+
+This will fool any gamer into thinking you're using Unreal Engine, and who am I kidding? It even briefly fooled Unreal Engine!
+
+![Retweet](https://i.imgur.com/rNz0iD9.jpg)
 
 ## Getting Started
 
